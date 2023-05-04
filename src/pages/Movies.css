@@ -1,0 +1,14 @@
+.moviesDetails {
+  margin: 0 auto;
+  max-width: 1024px;
+}
+.movie {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.generssss span {
+  border: 1px solid black;
+  padding: 5px;
+  border-radius: 10px;
+}

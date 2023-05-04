@@ -1,0 +1,12 @@
+.NavBar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.Searchcontrol {
+  display: flex;
+}
+.Searchcontrol input {
+}
+.Searchcontrol button {
+}
